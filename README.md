@@ -39,5 +39,6 @@ https://github.com/your-username/estore-php-core.git
   - Open a web browser and navigate to http://localhost/estore-php-core
 
   - You should now be able to see the homepage and browse the products. To access the account page, click on the Account link in the navbar and log in using your credentials.
+   <br>
   
   > ### Thank you so much for reading all this I hope you like the project and please give me your feedback I accept all opinions.
