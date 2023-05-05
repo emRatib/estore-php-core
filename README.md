@@ -13,7 +13,8 @@
 
 - ## Installation 
   -  Clone the project repository from GitHub using the following command:
-git clone https://github.com/your-username/estore-php-core.git
+git clone
+https://github.com/your-username/estore-php-core.git
 
   - Install a web server like XAMPP or WAMP on your local machine.
 
