@@ -1,4 +1,4 @@
-# E-Store PHP Core Project
+# E-Store, PHP Core Project
 - ## Description 
 #### This project is a simple E-Store developed using PHP Core. The project consists of three pages, including the homepage, product display page, and account page. Users can view products and update their account information after logging in.
 
